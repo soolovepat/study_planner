@@ -62,4 +62,11 @@ def date_time():
     return jsonify({'date':date_receive},{'dayofweek':date_DayOfWeek})
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     app.run('0.0.0.0', port=5000, debug=True)
+=======
+    app.run('0.0.0.0', port=5000, debug=True)
+
+    #asd
+
+>>>>>>> 78066a1b4444182e401576be4ae332f2e879442e
