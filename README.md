@@ -17,15 +17,15 @@
 
 ## 2. 사용 기술
 -Back-end
-
+dfdf
 Python 
 Flask
 MongoDB
 
 -Front-end
 
-JQuery 3.5.1
-Bootstrap 5.0.2
+JQuery
+Bootstrap
 deploy
 
 AWS EC2(Ubuntu)
